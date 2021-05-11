@@ -1,6 +1,6 @@
 FROM node:14-slim
 
-ENV SERVER
+ENV SERVER ""
 
 COPY . /home/app
 WORKDIR /home/app
