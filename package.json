@@ -1,0 +1,13 @@
+{
+  "name": "test-logs",
+  "version": "0.0.1",
+  "description": "Node application to test logging with ANSI color codes",
+  "main": "index.js",
+  "repository": "https://github.com/jasonappah/test-logs.git",
+  "author": "Jason Antwi-Appah <hey@jasonaa.me>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }, 
+  "scripts": {"start": "node index.js"}
+}
